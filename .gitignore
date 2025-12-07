@@ -17,3 +17,7 @@ build/
 npm-debug.log*
 
 CLAUDE.md
+.mypy_cache/
+.pytest_cache/
+
+.ruff_cache/
